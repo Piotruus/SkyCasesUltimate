@@ -1,0 +1,15 @@
+# SkyCases Ultimate: Paper 1.21.4, Java 21
+# Przełączniki dostępne w /case admin.
+settings:
+  animated-open: true
+  instant-open: true
+  animation-ticks: 60
+  broadcast-rare: false
+  effects: true
+  history: true
+  ranking: true
+  coupons: true
+  daily: true
+daily-crate: daily
+messages:
+  prefix: '&8[&dSkyCases&8] &r'

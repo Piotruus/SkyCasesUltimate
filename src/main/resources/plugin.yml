@@ -1,0 +1,14 @@
+name: SkyCasesUltimate
+version: 1.0.0-1.21.4-candidate
+main: pl.skycases.ultimate.SkyCasesPlugin
+api-version: '1.21'
+author: SkyCases
+commands:
+  case:
+    description: Skrzynki SkyCases i panel administracyjny
+    usage: /case help
+permissions:
+  skycases.admin:
+    default: op
+  skycases.use:
+    default: true
